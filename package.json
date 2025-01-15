@@ -4,14 +4,15 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "normalize.css": "^8.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1",
-    "sass": "^1.83.1"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "customize-cra": "^1.0.0",
-    "react-app-rewired": "^2.2.1"
+    "react-app-rewired": "^2.2.1",
+    "sass": "^1.83.4"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -37,5 +38,4 @@
       "last 1 safari version"
     ]
   }
-  
 }
